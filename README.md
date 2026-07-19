@@ -19,7 +19,7 @@ The system has 74 buses (including 20 generator buses), 20 synchronous machines 
 | `uvls.dat` | Undervoltage load-shedding (UVLS) controllers |
 | `*.dst` | Disturbance scenarios: no-disturbance run, branch/generator trips, LTC changes, Jacobian export for eigenanalysis (`eigen.dst`, `dampJac.dst`) |
 | `sim_*.cfg`, `cmd.txt` | Simulation configuration and RAMSES command file |
-| `doc/` | Official documentation: IEEE PES-TR19 report, Nordic test system report V6, and operating-point variants description |
+| `doc/` | Documentation: Nordic test system report V6 and operating-point variants description |
 | `scripts/` | PyRAMSES, Python, and MATLAB/Simulink usage examples (dynamic security assessment, curve extraction, modal analysis) |
 | `jupyterhub-tutorial/` | Self-contained PyRAMSES tutorial notebook used in the [EEN452 course](https://sps-lab.org/courses/een452/) (voltage collapse scenario on operating point B) |
 
@@ -45,9 +45,10 @@ Or run the RAMSES executable directly with one of the `cmd*.txt` command files. 
 
 The data formats are documented in the STEPSS user guide at [stepss.sps-lab.org](https://stepss.sps-lab.org/). The test system itself is described in `doc/`:
 
-- **PES-TR19** — the official IEEE PES technical report defining the test system;
 - **Nordic_test_system_V6.pdf** — detailed system report (T. Van Cutsem);
 - **variants.pdf** — description of the operating-point variants.
+
+The defining IEEE PES technical report [PES-TR19](https://resourcecenter.ieee-pes.org/publications/technical-reports/PESTR19.html) is available from IEEE (© IEEE, not redistributed here).
 
 ## Citation
 
@@ -57,7 +58,7 @@ If you use this test system in your research, please cite the IEEE PES technical
 
 ## License
 
-This repository is licensed under the [Apache License 2.0](LICENSE). The IEEE PES-TR19 report in `doc/` is redistributed for convenience and remains © IEEE.
+This repository is licensed under the [Apache License 2.0](LICENSE).
 
 ## Authors
 
