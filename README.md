@@ -25,7 +25,7 @@ The system has 74 buses (including 20 generator buses), 20 synchronous machines 
 
 ## Quick Start
 
-With [PyRAMSES](https://pyramses.sps-lab.org/):
+With [PyRAMSES](https://stepss.sps-lab.org/pyramses/):
 
 ```python
 import pyramses

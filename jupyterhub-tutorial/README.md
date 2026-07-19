@@ -1,6 +1,6 @@
 # PyRAMSES Dynamic Simulation Tutorial - Nordic Test System
 
-This repository contains startup material for learning power system dynamics using [PyRAMSES](https://pyramses.sps-lab.org/) (Python-based RApid Multithreaded Simulation of Electric power Systems) on JupyterHub. The material is designed for the **Control and Operation of Electric Power Systems (EEN452)** course at Cyprus University of Technology.
+This repository contains startup material for learning power system dynamics using [PyRAMSES](https://stepss.sps-lab.org/pyramses/) (Python-based RApid Multithreaded Simulation of Electric power Systems) on JupyterHub. The material is designed for the **Control and Operation of Electric Power Systems (EEN452)** course at Cyprus University of Technology.
 
 ## Overview
 
@@ -85,7 +85,7 @@ The simulation will show:
 
 ## Documentation and References
 
-- [PyRAMSES Documentation](https://pyramses.sps-lab.org/)
+- [PyRAMSES Documentation](https://stepss.sps-lab.org/pyramses/)
 - [Course Website](https://sps-lab.org/courses/een452/)
 - [Original Voltage Collapse Paper](https://orbi.uliege.be/handle/2268/245565)
 
@@ -99,7 +99,7 @@ The Nordic system operates at 50Hz and includes:
 
 ## Support
 
-For technical issues with PyRAMSES, refer to the [official documentation](https://pyramses.sps-lab.org/). For course-related questions, contact the instructor through the [course website](https://sps-lab.org/courses/een452/).
+For technical issues with PyRAMSES, refer to the [official documentation](https://stepss.sps-lab.org/pyramses/). For course-related questions, contact the instructor through the [course website](https://sps-lab.org/courses/een452/).
 
 ---
 
