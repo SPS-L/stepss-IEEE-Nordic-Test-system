@@ -164,7 +164,7 @@ TRFO 1012-4012 1012 4012 ' ' 0.0000 10.000 0.  95.000 1250.0 0. 0. 0 0. 0 1 ;
 TRFO 1022-4022 1022 4022 ' ' 0.0000 10.000 0.  93.000 833.30 0. 0. 0 0. 0 1 ; 
 TRFO 2031-4031 2031 4031 ' ' 0.0000 10.000 0. 100.000 833.30 0. 0. 0 0. 0 1 ;
 
-# SYNC_MACH       FP FQ  P     Q      SNOM  Pnom H  D  IBRATIO
+# SYNC_MACH name bus  FP FQ  P     Q      SNOM  Pnom H  D  IBRATIO
 #                  XT/RL  Xl   Xd   X'd    X"d   Xq    X'q  X"q  m     n    Ra    T'do T"do T'qo T"qo
 #             EXC GENERIC1   IFLIM    d   f   S   K1    K2   L1    L2   G   TA  TB  TE   L3  L4
 #                            SPEEDIN  KPSS  Tw      T1    T2     T3    T4   DVMIN  DVMAX
