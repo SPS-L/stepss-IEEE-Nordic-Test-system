@@ -18,7 +18,7 @@ The system has 74 buses (including 20 generator buses), 20 synchronous machines 
 | `settings1.dat` | Solver settings |
 | `uvls.dat` | Undervoltage load-shedding (UVLS) controllers |
 | `*.dst` | Disturbance scenarios: no-disturbance run, branch/generator trips, LTC changes, Jacobian export for eigenanalysis (`eigen.dst`, `dampJac.dst`) |
-| `sim_*.cfg`, `cmd*.txt` | Simulation configuration and RAMSES command files (`cmd_DSA*.txt` drive the dynamic security assessment runs) |
+| `sim_*.cfg`, `cmd.txt` | Simulation configuration and RAMSES command file |
 | `doc/` | Official documentation: IEEE PES-TR19 report, Nordic test system report V6, and operating-point variants description |
 | `scripts/` | PyRAMSES, Python, and MATLAB/Simulink usage examples (dynamic security assessment, curve extraction, modal analysis) |
 | `jupyterhub-tutorial/` | Self-contained PyRAMSES tutorial notebook used in the [EEN452 course](https://sps-lab.org/courses/een452/) (voltage collapse scenario on operating point B) |
