@@ -39,7 +39,7 @@ sim = pyramses.sim()
 sim.execSim(case)
 ```
 
-Or run the RAMSES executable directly with one of the `cmd*.txt` command files. Run scripts from the repository root so that relative paths to the data files resolve.
+Or run the RAMSES executable directly with the `cmd.txt` command file. Run scripts from the repository root so that relative paths to the data files resolve.
 
 ## Documentation
 
