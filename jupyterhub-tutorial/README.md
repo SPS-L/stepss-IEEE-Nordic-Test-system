@@ -1,7 +1,7 @@
-# PyRAMSES Tutorials — Nordic Test System
+# stepss Tutorials — Nordic Test System
 
 Self-contained tutorial notebooks for learning power system simulation with
-[PyRAMSES](https://stepss.sps-lab.org/pyramses/) on the IEEE Nordic test system,
+[stepss](https://stepss.sps-lab.org/python/) on the IEEE Nordic test system,
 designed for the **Control and Operation of Electric Power Systems (EEN452)**
 course at the Cyprus University of Technology (JupyterHub-ready).
 
@@ -35,16 +35,16 @@ On the course JupyterHub simply open a notebook and run the cells in order.
 Elsewhere, install first:
 
 ```bash
-pip install jupyter ipython pyramses
+pip install jupyter ipython stepss
 ```
 
 On Linux the engine also needs `libopenblas0 libgfortran5 libgomp1`
-(see the [installation guide](https://stepss.sps-lab.org/pyramses/installation/)).
+(see the [installation guide](https://stepss.sps-lab.org/python/installation/)).
 
 ## Documentation and references
 
-- [PyRAMSES documentation](https://stepss.sps-lab.org/pyramses/) — API reference and
-  [HELIOS power-flow guide](https://stepss.sps-lab.org/pyramses/helios/)
+- [stepss documentation](https://stepss.sps-lab.org/python/) — API reference and
+  [HELIOS power-flow guide](https://stepss.sps-lab.org/python/helios/)
 - [STEPSS user guide](https://stepss.sps-lab.org/) — data formats and models
 - [EEN452 course page](https://sps-lab.org/courses/een452/)
 - The test system: IEEE PES-TR19, *Test Systems for Voltage Stability Analysis and

@@ -2,7 +2,7 @@
 
 **The IEEE Nordic test system for voltage stability analysis, in RAMSES format.**
 
-This repository holds the Nordic variant detailed in the IEEE PES technical report [PES-TR19, "Test Systems for Voltage Stability Analysis and Security Assessment"](https://resourcecenter.ieee-pes.org/publications/technical-reports/PESTR19.html), prepared for use with the [STEPSS](https://stepss.sps-lab.org/) power system simulation platform (RAMSES dynamic simulator and PyRAMSES Python API).
+This repository holds the Nordic variant detailed in the IEEE PES technical report [PES-TR19, "Test Systems for Voltage Stability Analysis and Security Assessment"](https://resourcecenter.ieee-pes.org/publications/technical-reports/PESTR19.html), prepared for use with the [STEPSS](https://stepss.sps-lab.org/) power system simulation platform (RAMSES dynamic simulator and stepss Python API).
 
 The system has 74 buses (including 20 generator buses), 20 synchronous machines with detailed dynamic models, and voltage levels of 400/220/130 kV plus generator and distribution buses. It is a well-known benchmark for long-term voltage stability studies and dynamic security assessment.
 
@@ -20,21 +20,21 @@ The system has 74 buses (including 20 generator buses), 20 synchronous machines 
 | `*.dst` | Disturbance scenarios: no-disturbance run, branch/generator trips, LTC changes, Jacobian export for eigenanalysis (`eigen.dst`, `dampJac.dst`) |
 | `sim_*.cfg`, `cmd.txt` | Simulation configuration and RAMSES command file |
 | `doc/` | Documentation: Nordic test system report V6 and operating-point variants description |
-| `jupyterhub-tutorial/` | Self-contained PyRAMSES tutorial notebooks used in the [EEN452 course](https://sps-lab.org/courses/een452/): a first dynamic simulation (`Execute.ipynb`) and the full HELIOS power-flow → RAMSES workflow (`PowerFlowToDynamics.ipynb`) |
+| `jupyterhub-tutorial/` | Self-contained stepss tutorial notebooks used in the [EEN452 course](https://sps-lab.org/courses/een452/): a first dynamic simulation (`Execute.ipynb`) and the full HELIOS power-flow → RAMSES workflow (`PowerFlowToDynamics.ipynb`) |
 
 ## Quick Start
 
-With [PyRAMSES](https://stepss.sps-lab.org/pyramses/):
+With [stepss](https://stepss.sps-lab.org/python/):
 
 ```python
-import pyramses
-case = pyramses.cfg()
+import stepss
+case = stepss.cfg()
 case.addData('dyn_B.dat')
 case.addData('volt_rat_B.dat')
 case.addData('settings1.dat')
 case.addDst('trip_gen.dst')
 case.addObs('obs.dat')
-sim = pyramses.sim()
+sim = stepss.sim()
 sim.execSim(case)
 ```
 
