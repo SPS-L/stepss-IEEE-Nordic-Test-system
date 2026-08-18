@@ -44,8 +44,8 @@ Or run the RAMSES executable directly with the `cmd.txt` command file. Run scrip
 
 The data formats are documented in the STEPSS user guide at [stepss.sps-lab.org](https://stepss.sps-lab.org/). The test system itself is described in `doc/`:
 
-- **Nordic_test_system_V6.pdf** — detailed system report (T. Van Cutsem);
-- **variants.pdf** — description of the operating-point variants.
+- **Nordic_test_system_V6.pdf**: detailed system report (T. Van Cutsem);
+- **variants.pdf**: description of the operating-point variants.
 
 The defining IEEE PES technical report [PES-TR19](https://resourcecenter.ieee-pes.org/publications/technical-reports/PESTR19.html) is available from IEEE (© IEEE, not redistributed here).
 

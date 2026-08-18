@@ -1,4 +1,4 @@
-# stepss Tutorials — Nordic Test System
+# stepss Tutorials: Nordic Test System
 
 Self-contained tutorial notebooks for learning power system simulation with
 [stepss](https://stepss.sps-lab.org/python/) on the IEEE Nordic test system,
@@ -20,7 +20,7 @@ course at the Cyprus University of Technology (JupyterHub-ready).
 | `dyn_B.dat` | Dynamic models (machines, AVRs, governors, PSSs, loads, LTC controllers) | RAMSES |
 | `volt_rat_B.dat` | Solved operating point B: bus voltages and transformer ratios | RAMSES (initialization) |
 | `settings1.dat` | Time-integration and solver settings | RAMSES |
-| `obs.dat` | Observables selection (wildcards — record everything) | RAMSES |
+| `obs.dat` | Observables selection (wildcards, record everything) | RAMSES |
 | `trip_gen.dst` | Disturbance scenario: trip generator g2 at t = 1 s, stop at t = 120 s | RAMSES |
 | `short_trip_branch.dst`, `nothing.dst` | Alternative disturbance scenarios | RAMSES |
 | `nordic_oneline.png` | One-line diagram of the Nordic test system | the notebooks |
@@ -43,9 +43,9 @@ On Linux the engine also needs `libopenblas0 libgfortran5 libgomp1`
 
 ## Documentation and references
 
-- [stepss documentation](https://stepss.sps-lab.org/python/) — API reference and
+- [stepss documentation](https://stepss.sps-lab.org/python/): API reference and
   [HELIOS power-flow guide](https://stepss.sps-lab.org/python/helios/)
-- [STEPSS user guide](https://stepss.sps-lab.org/) — data formats and models
+- [STEPSS user guide](https://stepss.sps-lab.org/): data formats and models
 - [EEN452 course page](https://sps-lab.org/courses/een452/)
 - The test system: IEEE PES-TR19, *Test Systems for Voltage Stability Analysis and
   Security Assessment*, 2015 (report and variants in `../doc/`)
