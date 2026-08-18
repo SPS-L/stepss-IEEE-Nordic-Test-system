@@ -9,3 +9,9 @@
 # written by jupyterhub-tutorial/PowerFlowToDynamics.ipynb
 jupyterhub-tutorial/lf_B_plus10pct.dat
 jupyterhub-tutorial/volt_rat_B_plus10pct.dat
+
+# Simulation run products
+*.cur
+*.cont
+*.disc
+*.log

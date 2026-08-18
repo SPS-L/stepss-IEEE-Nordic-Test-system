@@ -11,7 +11,7 @@ The system has 74 buses (including 20 generator buses), 20 synchronous machines 
 | Path | Description |
 |------|-------------|
 | `lf_A.dat`, `lf_B.dat` | Load-flow data for operating points A and B |
-| `lf_B_plus_*.dat` | Operating point B with total load increased by 25–500 MW |
+| `lf_B_plus_*.dat` | Operating point B with total load increased by 25-500 MW |
 | `dyn_A.dat`, `dyn_B.dat` | Dynamic data (machines, exciters, governors, PSS, LTCs, OELs) |
 | `volt_rat_A.dat`, `volt_rat_B.dat`, `volt_rat_B_plus*.dat` | Power-flow solutions (voltages and transformer ratios) matching each operating point |
 | `obs.dat` | Observables selection |
@@ -39,6 +39,17 @@ sim.execSim(case)
 ```
 
 Or run the RAMSES executable directly with the `cmd.txt` command file. Run scripts from the repository root so that relative paths to the data files resolve.
+
+## Status
+
+**Runs.** Operating point A via `cmd.txt`, and operating point B with the `trip_branch.dst`
+and `trip_gen.dst` scenarios, all initialise and simulate.
+
+`jupyterhub-tutorial/PowerFlowToDynamics.ipynb` is the reference tutorial for the whole
+platform: it takes the system from a HELIOS power flow, through a load increase, to a RAMSES
+dynamic simulation of a generator trip.
+
+Verified against **stepss 3.70** (RAMSES 3.70, HELIOS 1.4.1) on Linux.
 
 ## Documentation
 
