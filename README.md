@@ -19,6 +19,7 @@ The system has 74 buses (including 20 generator buses), 20 synchronous machines 
 | `uvls.dat` | Undervoltage load-shedding (UVLS) controllers |
 | `*.dst` | Disturbance scenarios: no-disturbance run, branch/generator trips, LTC changes, Jacobian export for eigenanalysis (`eigen.dst`, `dampJac.dst`) |
 | `sim_*.cfg`, `cmd.txt` | Simulation configuration and RAMSES command file |
+| `nordic.svg` | One-line diagram template, with `%A`-`%U` placeholder codes substituted by the Helios `1` command |
 | `doc/` | Documentation: Nordic test system report V6 and operating-point variants description |
 | `jupyterhub-tutorial/` | Self-contained stepss tutorial notebooks used in the [EEN452 course](https://sps-lab.org/courses/een452/): a first dynamic simulation (`Execute.ipynb`) and the full HELIOS power-flow → RAMSES workflow (`PowerFlowToDynamics.ipynb`) |
 
@@ -40,6 +41,39 @@ sim.execSim(case)
 
 Or run the RAMSES executable directly with the `cmd.txt` command file. Run scripts from the repository root so that relative paths to the data files resolve.
 
+### One-line diagram
+
+`nordic.svg` is a one-line diagram template in the HELIOS placeholder format, following the
+area grouping of Figure 1 in `doc/Nordic_test_system_V6.pdf` with the connections redrawn
+orthogonally so the annotations fit. Solving any operating point and rendering the template
+fills in every number:
+
+```python
+from stepss.helios import HeliosSession
+
+with HeliosSession() as pf:
+    pf.load_file("lf_B.dat")
+    pf.solve()
+    pf.write_diagram("nordic.svg", "nordic_B.svg")
+```
+
+The same substitution is available from the HELIOS text interface with the `1` command. The
+template annotates the voltage magnitude and phase angle at every bus, the active and
+reactive output of every machine, the active and reactive load at the 22 distribution buses,
+the reactive output of the 11 shunt devices, and the active and reactive flow at both ends of
+all 33 400 kV lines. Flows are given at the bus end shown, positive out of the bus into the
+branch.
+
+The 130 kV and 220 kV lines and the transformers are drawn but deliberately left unannotated:
+annotating those as well puts about 450 numbers on one sheet and stops it being readable.
+
+The template is drawn for operating point B, which models the plants at buses 4047, 4051 and
+4063 as two units each and so has 77 buses and 23 machines. Operating point A models each of
+those three as a single unit, so rendering `lf_A.dat` leaves the paired units `g15b`, `g16b`
+and `g18b` reading `unknown`. Everything else on the sheet is complete for both, because the
+two operating points differ in nothing else: same buses otherwise, same 52 lines, same
+shunts.
+
 ## Status
 
 **Runs.** Operating point A via `cmd.txt`, and operating point B with the `trip_branch.dst`
@@ -49,7 +83,7 @@ and `trip_gen.dst` scenarios, all initialise and simulate.
 platform: it takes the system from a HELIOS power flow, through a load increase, to a RAMSES
 dynamic simulation of a generator trip.
 
-Verified against **stepss 3.70** (RAMSES 3.70, HELIOS 1.4.1) on Linux.
+Verified against **stepss 3.76** (RAMSES 3.76, HELIOS 1.4.1) on Linux.
 
 ## Documentation
 

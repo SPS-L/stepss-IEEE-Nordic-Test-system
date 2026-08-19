@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+     width="4340" height="5620" viewBox="0 0 4340 5620">
+  <title>Nordic test system - one-line diagram</title>
+  <rect x="0" y="0" width="4340" height="5620" style="fill:#ffffff" />
+  <polyline points="200,470 1200,470" style="fill:none;stroke:#000000;stroke-width:18;stroke-linecap:butt" />
+  <text x="200" y="370" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">4071</text>
+  <text x="200" y="400" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A4071</text>
+  <text x="200" y="426" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C4071</text>
+  <polyline points="1300,470 2100,470" style="fill:none;stroke:#000000;stroke-width:18;stroke-linecap:butt" />
+  <text x="1300" y="370" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">4011</text>
+  <text x="1300" y="400" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A4011</text>
+  <text x="1300" y="426" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C4011</text>
+  <polyline points="2350,470 2850,470" style="fill:none;stroke:#000000;stroke-width:12;stroke-linecap:butt" />
+  <text x="2350" y="370" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">1011</text>
+  <text x="2350" y="400" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A1011</text>
+  <text x="2350" y="426" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C1011</text>
+  <polyline points="3300,470 3900,470" style="fill:none;stroke:#000000;stroke-width:12;stroke-linecap:butt" />
+  <text x="3300" y="370" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">1013</text>
+  <text x="3300" y="400" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A1013</text>
+  <text x="3300" y="426" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C1013</text>
+  <polyline points="200,980 1200,980" style="fill:none;stroke:#000000;stroke-width:18;stroke-linecap:butt" />
+  <text x="200" y="880" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">4072</text>
+  <text x="200" y="910" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A4072</text>
+  <text x="200" y="936" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C4072</text>
+  <polyline points="1300,980 2100,980" style="fill:none;stroke:#000000;stroke-width:18;stroke-linecap:butt" />
+  <text x="1300" y="880" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">4012</text>
+  <text x="1300" y="910" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A4012</text>
+  <text x="1300" y="936" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C4012</text>
+  <polyline points="2350,980 2850,980" style="fill:none;stroke:#000000;stroke-width:12;stroke-linecap:butt" />
+  <text x="2350" y="880" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">1012</text>
+  <text x="2350" y="910" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A1012</text>
+  <text x="2350" y="936" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C1012</text>
+  <polyline points="3300,980 3900,980" style="fill:none;stroke:#000000;stroke-width:12;stroke-linecap:butt" />
+  <text x="3300" y="880" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">1014</text>
+  <text x="3300" y="910" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A1014</text>
+  <text x="3300" y="936" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C1014</text>
+  <polyline points="200,1480 650,1480" style="fill:none;stroke:#000000;stroke-width:12;stroke-linecap:butt" />
+  <text x="200" y="1380" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">1021</text>
+  <text x="200" y="1410" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A1021</text>
+  <text x="200" y="1436" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C1021</text>
+  <polyline points="850,1480 1400,1480" style="fill:none;stroke:#000000;stroke-width:12;stroke-linecap:butt" />
+  <text x="850" y="1380" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">1022</text>
+  <text x="850" y="1410" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A1022</text>
+  <text x="850" y="1436" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C1022</text>
+  <polyline points="1600,1480 2200,1480" style="fill:none;stroke:#000000;stroke-width:18;stroke-linecap:butt" />
+  <text x="1600" y="1380" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">4022</text>
+  <text x="1600" y="1410" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A4022</text>
+  <text x="1600" y="1436" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C4022</text>
+  <polyline points="2700,1480 3400,1480" style="fill:none;stroke:#000000;stroke-width:18;stroke-linecap:butt" />
+  <text x="2700" y="1380" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">4021</text>
+  <text x="2700" y="1410" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A4021</text>
+  <text x="2700" y="1436" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C4021</text>
+  <polyline points="200,1960 650,1960" style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:butt" />
+  <text x="200" y="1860" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">2032</text>
+  <text x="200" y="1890" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A2032</text>
+  <text x="200" y="1916" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C2032</text>
+  <polyline points="850,1960 1400,1960" style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:butt" />
+  <text x="850" y="1860" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">2031</text>
+  <text x="850" y="1890" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A2031</text>
+  <text x="850" y="1916" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C2031</text>
+  <polyline points="1600,1960 2400,1960" style="fill:none;stroke:#000000;stroke-width:18;stroke-linecap:butt" />
+  <text x="1600" y="1860" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">4031</text>
+  <text x="1600" y="1890" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A4031</text>
+  <text x="1600" y="1916" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C4031</text>
+  <polyline points="2700,1960 3400,1960" style="fill:none;stroke:#000000;stroke-width:18;stroke-linecap:butt" />
+  <text x="2700" y="1860" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">4032</text>
+  <text x="2700" y="1890" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A4032</text>
+  <text x="2700" y="1916" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C4032</text>
+  <polyline points="450,2440 1400,2440" style="fill:none;stroke:#000000;stroke-width:18;stroke-linecap:butt" />
+  <text x="450" y="2340" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">4041</text>
+  <text x="450" y="2370" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A4041</text>
+  <text x="450" y="2396" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C4041</text>
+  <polyline points="2700,2440 3700,2440" style="fill:none;stroke:#000000;stroke-width:18;stroke-linecap:butt" />
+  <text x="2700" y="2340" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">4042</text>
+  <text x="2700" y="2370" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A4042</text>
+  <text x="2700" y="2396" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C4042</text>
+  <polyline points="300,2900 850,2900" style="fill:none;stroke:#000000;stroke-width:12;stroke-linecap:butt" />
+  <text x="300" y="2800" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">1043</text>
+  <text x="300" y="2830" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A1043</text>
+  <text x="300" y="2856" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C1043</text>
+  <polyline points="1200,2900 2400,2900" style="fill:none;stroke:#000000;stroke-width:18;stroke-linecap:butt" />
+  <text x="1200" y="2800" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">4044</text>
+  <text x="1200" y="2830" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A4044</text>
+  <text x="1200" y="2856" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C4044</text>
+  <polyline points="2500,2900 3250,2900" style="fill:none;stroke:#000000;stroke-width:18;stroke-linecap:butt" />
+  <text x="2500" y="2800" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">4043</text>
+  <text x="2500" y="2830" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A4043</text>
+  <text x="2500" y="2856" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C4043</text>
+  <polyline points="3450,2900 3950,2900" style="fill:none;stroke:#000000;stroke-width:18;stroke-linecap:butt" />
+  <text x="3450" y="2800" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">4046</text>
+  <text x="3450" y="2830" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A4046</text>
+  <text x="3450" y="2856" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C4046</text>
+  <polyline points="700,3350 1350,3350" style="fill:none;stroke:#000000;stroke-width:12;stroke-linecap:butt" />
+  <text x="700" y="3250" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">1044</text>
+  <text x="700" y="3280" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A1044</text>
+  <text x="700" y="3306" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C1044</text>
+  <polyline points="1900,3350 2450,3350" style="fill:none;stroke:#000000;stroke-width:12;stroke-linecap:butt" />
+  <text x="1900" y="3250" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">1042</text>
+  <text x="1900" y="3280" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A1042</text>
+  <text x="1900" y="3306" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C1042</text>
+  <polyline points="3450,3350 4150,3350" style="fill:none;stroke:#000000;stroke-width:18;stroke-linecap:butt" />
+  <text x="3450" y="3250" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">4047</text>
+  <text x="3450" y="3280" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A4047</text>
+  <text x="3450" y="3306" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C4047</text>
+  <polyline points="260,3810 810,3810" style="fill:none;stroke:#000000;stroke-width:12;stroke-linecap:butt" />
+  <text x="260" y="3710" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">1041</text>
+  <text x="260" y="3740" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A1041</text>
+  <text x="260" y="3766" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C1041</text>
+  <polyline points="950,3810 1500,3810" style="fill:none;stroke:#000000;stroke-width:12;stroke-linecap:butt" />
+  <text x="950" y="3710" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">1045</text>
+  <text x="950" y="3740" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A1045</text>
+  <text x="950" y="3766" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C1045</text>
+  <polyline points="1750,3810 2500,3810" style="fill:none;stroke:#000000;stroke-width:18;stroke-linecap:butt" />
+  <text x="1750" y="3710" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">4045</text>
+  <text x="1750" y="3740" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A4045</text>
+  <text x="1750" y="3766" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C4045</text>
+  <polyline points="300,4270 850,4270" style="fill:none;stroke:#000000;stroke-width:18;stroke-linecap:butt" />
+  <text x="300" y="4170" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">4061</text>
+  <text x="300" y="4200" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A4061</text>
+  <text x="300" y="4226" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C4061</text>
+  <polyline points="1800,4270 2600,4270" style="fill:none;stroke:#000000;stroke-width:18;stroke-linecap:butt" />
+  <text x="1800" y="4170" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">4051</text>
+  <text x="1800" y="4200" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A4051</text>
+  <text x="1800" y="4226" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C4051</text>
+  <polyline points="300,4720 1150,4720" style="fill:none;stroke:#000000;stroke-width:18;stroke-linecap:butt" />
+  <text x="300" y="4620" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">4062</text>
+  <text x="300" y="4650" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A4062</text>
+  <text x="300" y="4676" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C4062</text>
+  <polyline points="300,5170 1150,5170" style="fill:none;stroke:#000000;stroke-width:18;stroke-linecap:butt" />
+  <text x="300" y="5070" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:26px;text-anchor:start;fill:#008f8f">4063</text>
+  <text x="300" y="5100" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A4063</text>
+  <text x="300" y="5126" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C4063</text>
+  <polyline points="900,470 900,408" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="900" cy="357" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="900" cy="391" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="900,340 900,298" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="900" cy="256" r="42" style="fill:#cccccc;stroke:#000000;stroke-width:5" />
+  <text x="900" y="263.92" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:middle;fill:#000000">g19</text>
+  <text x="958" y="204" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%Ag19</text>
+  <text x="958" y="230" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%Cg19</text>
+  <text x="958" y="256" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000ff">%Gg19</text>
+  <text x="958" y="282" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%Kg19</text>
+  <polyline points="960,470 960,530" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="960" cy="547" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="960" cy="581" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="960,598 960,638" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polyline points="908,638 1012,638" style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt" />
+  <polyline points="960,638 960,703" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polygon points="960,720 973.6,703 946.4,703" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1024" y="656" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:start;fill:#008f8f">71</text>
+  <text x="1024" y="686" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A71</text>
+  <text x="1024" y="712" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C71</text>
+  <text x="1024" y="738" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%R71</text>
+  <text x="1024" y="764" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%S71</text>
+  <polyline points="1140,470 1140,510" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <rect x="1123" y="524" width="34" height="46" style="fill:none;stroke:#000000;stroke-width:7" />
+  <polyline points="1140,510 1140,524" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="1140,570 1140,654" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="1108,654 1172,654" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="1120,666 1160,666" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="1131,678 1149,678" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <text x="1186" y="595" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%H4071</text>
+  <polyline points="800,980 800,1042" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="800" cy="1059" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="800" cy="1093" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="800,1110 800,1152" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="800" cy="1194" r="42" style="fill:#cccccc;stroke:#000000;stroke-width:5" />
+  <text x="800" y="1201.92" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:middle;fill:#000000">g20</text>
+  <text x="858" y="1142" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%Ag20</text>
+  <text x="858" y="1168" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%Cg20</text>
+  <text x="858" y="1194" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000ff">%Gg20</text>
+  <text x="858" y="1220" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%Kg20</text>
+  <polyline points="400,980 400,1040" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="400" cy="1057" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="400" cy="1091" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="400,1108 400,1148" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polyline points="348,1148 452,1148" style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt" />
+  <polyline points="400,1148 400,1213" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polygon points="400,1230 413.6,1213 386.4,1213" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="464" y="1166" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:start;fill:#008f8f">72</text>
+  <text x="464" y="1196" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A72</text>
+  <text x="464" y="1222" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C72</text>
+  <text x="464" y="1248" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%R72</text>
+  <text x="464" y="1274" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%S72</text>
+  <polyline points="400,470 400,980" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="400,516 413,498 387,498" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="414" y="532" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4071-4072,4071</text>
+  <text x="414" y="558" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4071-4072,4071</text>
+  <polygon points="400,934 413,952 387,952" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="414" y="902" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4071-4072,4072</text>
+  <text x="414" y="928" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4071-4072,4072</text>
+  <polyline points="580,470 580,980" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="580,516 593,498 567,498" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="594" y="532" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4071-4072-2,4071</text>
+  <text x="594" y="558" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4071-4072-2,4071</text>
+  <polygon points="580,934 593,952 567,952" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="594" y="902" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4071-4072-2,4072</text>
+  <text x="594" y="928" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4071-4072-2,4072</text>
+  <polyline points="420,470 420,150 1450,150 1450,470" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="420,424 433,442 407,442" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="434" y="392" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4011-4071,4071</text>
+  <text x="434" y="418" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4011-4071,4071</text>
+  <polygon points="1450,424 1463,442 1437,442" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1464" y="392" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4011-4071,4011</text>
+  <text x="1464" y="418" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4011-4071,4011</text>
+  <polyline points="780,470 780,820 1900,820 1900,980" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="780,516 793,498 767,498" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="794" y="532" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4012-4071,4071</text>
+  <text x="794" y="558" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4012-4071,4071</text>
+  <polygon points="1900,934 1913,952 1887,952" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1914" y="902" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4012-4071,4012</text>
+  <text x="1914" y="928" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4012-4071,4012</text>
+  <polyline points="1800,470 1800,408" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="1800" cy="357" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="1800" cy="391" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="1800,340 1800,298" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="1800" cy="256" r="42" style="fill:#cccccc;stroke:#000000;stroke-width:5" />
+  <text x="1800" y="263.92" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:middle;fill:#000000">g9</text>
+  <text x="1858" y="204" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%Ag9</text>
+  <text x="1858" y="230" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%Cg9</text>
+  <text x="1858" y="256" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000ff">%Gg9</text>
+  <text x="1858" y="282" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%Kg9</text>
+  <polyline points="1400,470 1400,980" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="1400,516 1413,498 1387,498" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1414" y="532" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4011-4012,4011</text>
+  <text x="1414" y="558" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4011-4012,4011</text>
+  <polygon points="1400,934 1413,952 1387,952" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1414" y="902" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4011-4012,4012</text>
+  <text x="1414" y="928" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4011-4012,4012</text>
+  <polyline points="1700,470 1700,680 2950,680 2950,1480" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="1700,516 1713,498 1687,498" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1714" y="532" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4011-4021,4011</text>
+  <text x="1714" y="558" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4011-4021,4011</text>
+  <polygon points="2950,1434 2963,1452 2937,1452" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="2964" y="1402" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4011-4021,4021</text>
+  <text x="2964" y="1428" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4011-4021,4021</text>
+  <polyline points="1950,470 1950,760 1250,760 1250,1300 1740,1300 1740,1480" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="1950,516 1963,498 1937,498" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1964" y="532" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4011-4022,4011</text>
+  <text x="1964" y="558" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4011-4022,4011</text>
+  <polygon points="1740,1434 1753,1452 1727,1452" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1754" y="1402" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4011-4022,4022</text>
+  <text x="1754" y="1428" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4011-4022,4022</text>
+  <polyline points="1350,980 1350,1042" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="1350" cy="1059" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="1350" cy="1093" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="1350,1110 1350,1152" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="1350" cy="1194" r="42" style="fill:#cccccc;stroke:#000000;stroke-width:5" />
+  <text x="1350" y="1201.92" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:middle;fill:#000000">g10</text>
+  <text x="1408" y="1142" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%Ag10</text>
+  <text x="1408" y="1168" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%Cg10</text>
+  <text x="1408" y="1194" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000ff">%Gg10</text>
+  <text x="1408" y="1220" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%Kg10</text>
+  <polyline points="1650,980 1650,1020" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <rect x="1633" y="1034" width="34" height="46" style="fill:none;stroke:#000000;stroke-width:7" />
+  <polyline points="1650,1020 1650,1034" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="1650,1080 1650,1164" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="1618,1164 1682,1164" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="1630,1176 1670,1176" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="1641,1188 1659,1188" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <text x="1604" y="1105" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:end;fill:#008f00">%H4012</text>
+  <polyline points="1900,980 1900,1240 2140,1240 2140,1480" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="1900,1026 1913,1008 1887,1008" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1914" y="1042" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4012-4022,4012</text>
+  <text x="1914" y="1068" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4012-4022,4012</text>
+  <polygon points="2140,1434 2153,1452 2127,1452" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="2154" y="1402" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4012-4022,4022</text>
+  <text x="2154" y="1428" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4012-4022,4022</text>
+  <polyline points="2100,470 2350,470" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter" />
+  <circle cx="2207" cy="470" r="24" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="2243" cy="470" r="24" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="2100,980 2350,980" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter" />
+  <circle cx="2207" cy="980" r="24" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="2243" cy="980" r="24" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="2650,470 2650,410" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="2650" cy="359" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="2650" cy="393" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="2650,342 2650,302" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polyline points="2598,302 2702,302" style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt" />
+  <polyline points="2650,302 2650,237" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polygon points="2650,220 2664,237 2636,237" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="2714" y="176" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:start;fill:#008f8f">11</text>
+  <text x="2714" y="206" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A11</text>
+  <text x="2714" y="232" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C11</text>
+  <text x="2714" y="258" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%R11</text>
+  <text x="2714" y="284" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%S11</text>
+  <polyline points="2700,980 2700,1040" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="2700" cy="1057" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="2700" cy="1091" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="2700,1108 2700,1148" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polyline points="2648,1148 2752,1148" style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt" />
+  <polyline points="2700,1148 2700,1213" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polygon points="2700,1230 2713.6,1213 2686.4,1213" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="2764" y="1166" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:start;fill:#008f8f">12</text>
+  <text x="2764" y="1196" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A12</text>
+  <text x="2764" y="1222" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C12</text>
+  <text x="2764" y="1248" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%R12</text>
+  <text x="2764" y="1274" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%S12</text>
+  <polyline points="2450,980 2450,1042" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="2450" cy="1059" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="2450" cy="1093" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="2450,1110 2450,1152" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="2450" cy="1194" r="42" style="fill:#cccccc;stroke:#000000;stroke-width:5" />
+  <text x="2450" y="1201.92" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:middle;fill:#000000">g1</text>
+  <text x="2508" y="1142" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%Ag1</text>
+  <text x="2508" y="1168" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%Cg1</text>
+  <text x="2508" y="1194" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000ff">%Gg1</text>
+  <text x="2508" y="1220" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%Kg1</text>
+  <polyline points="3750,470 3750,408" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="3750" cy="357" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="3750" cy="391" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="3750,340 3750,298" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="3750" cy="256" r="42" style="fill:#cccccc;stroke:#000000;stroke-width:5" />
+  <text x="3750" y="263.92" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:middle;fill:#000000">g2</text>
+  <text x="3808" y="204" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%Ag2</text>
+  <text x="3808" y="230" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%Cg2</text>
+  <text x="3808" y="256" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000ff">%Gg2</text>
+  <text x="3808" y="282" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%Kg2</text>
+  <polyline points="3450,470 3450,410" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="3450" cy="359" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="3450" cy="393" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="3450,342 3450,302" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polyline points="3398,302 3502,302" style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt" />
+  <polyline points="3450,302 3450,237" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polygon points="3450,220 3464,237 3436,237" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="3514" y="176" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:start;fill:#008f8f">13</text>
+  <text x="3514" y="206" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A13</text>
+  <text x="3514" y="232" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C13</text>
+  <text x="3514" y="258" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%R13</text>
+  <text x="3514" y="284" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%S13</text>
+  <polyline points="3750,980 3750,1042" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="3750" cy="1059" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="3750" cy="1093" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="3750,1110 3750,1152" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="3750" cy="1194" r="42" style="fill:#cccccc;stroke:#000000;stroke-width:5" />
+  <text x="3750" y="1201.92" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:middle;fill:#000000">g3</text>
+  <text x="3808" y="1142" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%Ag3</text>
+  <text x="3808" y="1168" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%Cg3</text>
+  <text x="3808" y="1194" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000ff">%Gg3</text>
+  <text x="3808" y="1220" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%Kg3</text>
+  <polyline points="2850,470 3300,470" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polyline points="2800,470 2800,620 3350,620 3350,470" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polyline points="2850,980 3300,980" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polyline points="2800,980 2800,1130 3350,1130 3350,980" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polyline points="3500,470 3500,980" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polyline points="3700,470 3700,980" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polyline points="300,1480 300,1542" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="300" cy="1559" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="300" cy="1593" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="300,1610 300,1652" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="300" cy="1694" r="42" style="fill:#cccccc;stroke:#000000;stroke-width:5" />
+  <text x="300" y="1701.92" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:middle;fill:#000000">g4</text>
+  <text x="358" y="1642" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%Ag4</text>
+  <text x="358" y="1668" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%Cg4</text>
+  <text x="358" y="1694" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000ff">%Gg4</text>
+  <text x="358" y="1720" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%Kg4</text>
+  <polyline points="1000,1480 1000,1418" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="1000" cy="1367" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="1000" cy="1401" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="1000,1350 1000,1308" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="1000" cy="1266" r="42" style="fill:#cccccc;stroke:#000000;stroke-width:5" />
+  <text x="1000" y="1273.92" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:middle;fill:#000000">g5</text>
+  <text x="1058" y="1214" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%Ag5</text>
+  <text x="1058" y="1240" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%Cg5</text>
+  <text x="1058" y="1266" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000ff">%Gg5</text>
+  <text x="1058" y="1292" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%Kg5</text>
+  <polyline points="1050,1480 1050,1540" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="1050" cy="1557" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="1050" cy="1591" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="1050,1608 1050,1648" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polyline points="998,1648 1102,1648" style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt" />
+  <polyline points="1050,1648 1050,1713" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polygon points="1050,1730 1063.6,1713 1036.4,1713" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1114" y="1666" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:start;fill:#008f8f">22</text>
+  <text x="1114" y="1696" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A22</text>
+  <text x="1114" y="1722" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C22</text>
+  <text x="1114" y="1748" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%R22</text>
+  <text x="1114" y="1774" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%S22</text>
+  <polyline points="1250,1480 1250,1520" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="1250,1520 1250,1615" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="1220,1615 1280,1615" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="1220,1633 1280,1633" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="1250,1633 1250,1644" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="1218,1644 1282,1644" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="1230,1656 1270,1656" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="1241,1668 1259,1668" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <text x="1296" y="1605" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%H1022</text>
+  <polyline points="650,1480 850,1480" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polyline points="500,1480 500,1560 1000,1560 1000,1480" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polyline points="1400,1480 1600,1480" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter" />
+  <circle cx="1482" cy="1480" r="24" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="1518" cy="1480" r="24" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="1780,1480 1780,1960" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="1780,1526 1793,1508 1767,1508" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1794" y="1542" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4022-4031,4022</text>
+  <text x="1794" y="1568" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4022-4031,4022</text>
+  <polygon points="1780,1914 1793,1932 1767,1932" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1794" y="1882" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4022-4031,4031</text>
+  <text x="1794" y="1908" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4022-4031,4031</text>
+  <polyline points="1980,1480 1980,1960" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="1980,1526 1993,1508 1967,1508" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1994" y="1542" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4022-4031-2,4022</text>
+  <text x="1994" y="1568" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4022-4031-2,4022</text>
+  <polygon points="1980,1914 1993,1932 1967,1932" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1994" y="1882" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4022-4031-2,4031</text>
+  <text x="1994" y="1908" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4022-4031-2,4031</text>
+  <polyline points="3300,1480 3300,1418" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="3300" cy="1367" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="3300" cy="1401" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="3300,1350 3300,1308" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="3300" cy="1266" r="42" style="fill:#cccccc;stroke:#000000;stroke-width:5" />
+  <text x="3300" y="1273.92" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:middle;fill:#000000">g11</text>
+  <text x="3358" y="1214" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%Ag11</text>
+  <text x="3358" y="1240" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%Cg11</text>
+  <text x="3358" y="1266" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000ff">%Gg11</text>
+  <text x="3358" y="1292" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%Kg11</text>
+  <polyline points="2800,1480 2800,1960" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="2800,1526 2813,1508 2787,1508" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="2814" y="1542" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4021-4032,4021</text>
+  <text x="2814" y="1568" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4021-4032,4021</text>
+  <polygon points="2800,1914 2813,1932 2787,1932" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="2814" y="1882" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4021-4032,4032</text>
+  <text x="2814" y="1908" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4021-4032,4032</text>
+  <polyline points="3100,1480 3100,1740 3650,1740 3650,2440" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="3100,1526 3113,1508 3087,1508" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="3114" y="1542" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4021-4042,4021</text>
+  <text x="3114" y="1568" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4021-4042,4021</text>
+  <polygon points="3650,2394 3663,2412 3637,2412" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="3664" y="2362" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4021-4042,4042</text>
+  <text x="3664" y="2388" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4021-4042,4042</text>
+  <polyline points="300,1960 300,2022" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="300" cy="2039" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="300" cy="2073" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="300,2090 300,2132" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="300" cy="2174" r="42" style="fill:#cccccc;stroke:#000000;stroke-width:5" />
+  <text x="300" y="2181.92" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:middle;fill:#000000">g8</text>
+  <text x="358" y="2122" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%Ag8</text>
+  <text x="358" y="2148" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%Cg8</text>
+  <text x="358" y="2174" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000ff">%Gg8</text>
+  <text x="358" y="2200" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%Kg8</text>
+  <polyline points="500,1960 500,2020" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="500" cy="2037" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="500" cy="2071" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="500,2088 500,2128" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polyline points="448,2128 552,2128" style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt" />
+  <polyline points="500,2128 500,2193" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polygon points="500,2210 513.6,2193 486.4,2193" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="564" y="2146" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:start;fill:#008f8f">32</text>
+  <text x="564" y="2176" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A32</text>
+  <text x="564" y="2202" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C32</text>
+  <text x="564" y="2228" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%R32</text>
+  <text x="564" y="2254" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%S32</text>
+  <polyline points="1200,1960 1200,2020" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="1200" cy="2037" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="1200" cy="2071" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="1200,2088 1200,2128" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polyline points="1148,2128 1252,2128" style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt" />
+  <polyline points="1200,2128 1200,2193" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polygon points="1200,2210 1213.6,2193 1186.4,2193" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1264" y="2146" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:start;fill:#008f8f">31</text>
+  <text x="1264" y="2176" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A31</text>
+  <text x="1264" y="2202" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C31</text>
+  <text x="1264" y="2228" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%R31</text>
+  <text x="1264" y="2254" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%S31</text>
+  <polyline points="650,1960 850,1960" style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polyline points="550,1960 550,1870 1000,1870 1000,1960" style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polyline points="1400,1960 1600,1960" style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter" />
+  <circle cx="1482" cy="1960" r="24" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="1518" cy="1960" r="24" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="2250,1960 2250,1898" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="2250" cy="1847" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="2250" cy="1881" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="2250,1830 2250,1788" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="2250" cy="1746" r="42" style="fill:#cccccc;stroke:#000000;stroke-width:5" />
+  <text x="2250" y="1753.92" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:middle;fill:#000000">g12</text>
+  <text x="2308" y="1694" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%Ag12</text>
+  <text x="2308" y="1720" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%Cg12</text>
+  <text x="2308" y="1746" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000ff">%Gg12</text>
+  <text x="2308" y="1772" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%Kg12</text>
+  <polyline points="2350,1960 2350,2100 3100,2100 3100,1960" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="2350,2006 2363,1988 2337,1988" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="2364" y="2022" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4031-4032,4031</text>
+  <text x="2364" y="2048" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4031-4032,4031</text>
+  <polygon points="3100,2006 3113,1988 3087,1988" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="3114" y="2022" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4031-4032,4032</text>
+  <text x="3114" y="2048" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4031-4032,4032</text>
+  <polyline points="1700,1960 1700,2180 700,2180 700,2440" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="1700,2006 1713,1988 1687,1988" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1714" y="2022" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4031-4041,4031</text>
+  <text x="1714" y="2048" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4031-4041,4031</text>
+  <polygon points="700,2394 713,2412 687,2412" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="714" y="2362" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4031-4041,4041</text>
+  <text x="714" y="2388" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4031-4041,4041</text>
+  <polyline points="1900,1960 1900,2260 900,2260 900,2440" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="1900,2006 1913,1988 1887,1988" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1914" y="2022" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4031-4041-2,4031</text>
+  <text x="1914" y="2048" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4031-4041-2,4031</text>
+  <polygon points="900,2394 913,2412 887,2412" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="914" y="2362" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4031-4041-2,4041</text>
+  <text x="914" y="2388" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4031-4041-2,4041</text>
+  <polyline points="2900,1960 2900,2260 2850,2260 2850,2440" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="2900,2006 2913,1988 2887,1988" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="2914" y="2022" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4032-4042,4032</text>
+  <text x="2914" y="2048" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4032-4042,4032</text>
+  <polygon points="2850,2394 2863,2412 2837,2412" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="2864" y="2362" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4032-4042,4042</text>
+  <text x="2864" y="2388" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4032-4042,4042</text>
+  <polyline points="3300,1960 3300,2150 2450,2150 2450,2700 1950,2700 1950,2900" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="3300,2006 3313,1988 3287,1988" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="3314" y="2022" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4032-4044,4032</text>
+  <text x="3314" y="2048" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4032-4044,4032</text>
+  <polygon points="1950,2854 1963,2872 1937,2872" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1964" y="2822" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4032-4044,4044</text>
+  <text x="1964" y="2848" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4032-4044,4044</text>
+  <polyline points="900,2440 900,2480" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="900,2480 900,2575" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="870,2575 930,2575" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="870,2593 930,2593" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="900,2593 900,2604" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="868,2604 932,2604" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="880,2616 920,2616" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="891,2628 909,2628" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <text x="946" y="2565" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%H4041</text>
+  <polyline points="1150,2440 1150,2502" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="1150" cy="2519" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="1150" cy="2553" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="1150,2570 1150,2612" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="1150" cy="2654" r="42" style="fill:#cccccc;stroke:#000000;stroke-width:5" />
+  <text x="1150" y="2661.92" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:middle;fill:#000000">g13</text>
+  <text x="1208" y="2602" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%Ag13</text>
+  <text x="1208" y="2628" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%Cg13</text>
+  <text x="1208" y="2654" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000ff">%Gg13</text>
+  <text x="1208" y="2680" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%Kg13</text>
+  <polyline points="1300,2440 1300,2500" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="1300" cy="2517" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="1300" cy="2551" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="1300,2568 1300,2608" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polyline points="1248,2608 1352,2608" style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt" />
+  <polyline points="1300,2608 1300,2673" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polygon points="1300,2690 1313.6,2673 1286.4,2673" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1364" y="2626" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:start;fill:#008f8f">41</text>
+  <text x="1364" y="2656" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A41</text>
+  <text x="1364" y="2682" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C41</text>
+  <text x="1364" y="2708" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%R41</text>
+  <text x="1364" y="2734" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%S41</text>
+  <polyline points="1250,2440 1250,2320 1500,2320 1500,2900" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="1250,2394 1263,2412 1237,2412" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1264" y="2362" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4041-4044,4041</text>
+  <text x="1264" y="2388" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4041-4044,4041</text>
+  <polygon points="1500,2854 1513,2872 1487,2872" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1514" y="2822" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4041-4044,4044</text>
+  <text x="1514" y="2848" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4041-4044,4044</text>
+  <polyline points="500,2440 500,2620 150,2620 150,4130 440,4130 440,4270" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="500,2486 513,2468 487,2468" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="514" y="2502" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4041-4061,4041</text>
+  <text x="514" y="2528" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4041-4061,4041</text>
+  <polygon points="440,4224 453,4242 427,4242" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="454" y="4192" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4041-4061,4061</text>
+  <text x="454" y="4218" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4041-4061,4061</text>
+  <polyline points="3150,2440 3150,2378" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="3150" cy="2327" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="3150" cy="2361" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="3150,2310 3150,2268" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="3150" cy="2226" r="42" style="fill:#cccccc;stroke:#000000;stroke-width:5" />
+  <text x="3150" y="2233.92" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:middle;fill:#000000">g14</text>
+  <text x="3208" y="2174" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%Ag14</text>
+  <text x="3208" y="2200" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%Cg14</text>
+  <text x="3208" y="2226" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000ff">%Gg14</text>
+  <text x="3208" y="2252" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%Kg14</text>
+  <polyline points="3400,2440 3400,2380" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="3400" cy="2329" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="3400" cy="2363" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="3400,2312 3400,2272" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polyline points="3348,2272 3452,2272" style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt" />
+  <polyline points="3400,2272 3400,2207" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polygon points="3400,2190 3414,2207 3386,2207" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="3464" y="2146" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:start;fill:#008f8f">42</text>
+  <text x="3464" y="2176" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A42</text>
+  <text x="3464" y="2202" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C42</text>
+  <text x="3464" y="2228" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%R42</text>
+  <text x="3464" y="2254" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%S42</text>
+  <polyline points="2850,2440 2850,2700 2650,2700 2650,2900" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="2850,2486 2863,2468 2837,2468" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="2864" y="2502" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4042-4043,4042</text>
+  <text x="2864" y="2528" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4042-4043,4042</text>
+  <polygon points="2650,2854 2663,2872 2637,2872" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="2664" y="2822" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4042-4043,4043</text>
+  <text x="2664" y="2848" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4042-4043,4043</text>
+  <polyline points="3100,2440 3100,2780 2250,2780 2250,2900" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="3100,2486 3113,2468 3087,2468" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="3114" y="2502" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4042-4044,4042</text>
+  <text x="3114" y="2528" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4042-4044,4042</text>
+  <polygon points="2250,2854 2263,2872 2237,2872" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="2264" y="2822" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4042-4044,4044</text>
+  <text x="2264" y="2848" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4042-4044,4044</text>
+  <polyline points="2550,2900 2550,3120 2350,3120 2350,2900" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="2550,2946 2563,2928 2537,2928" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="2564" y="2962" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4043-4044,4043</text>
+  <text x="2564" y="2988" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4043-4044,4043</text>
+  <polygon points="2350,2946 2363,2928 2337,2928" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="2364" y="2962" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4043-4044,4044</text>
+  <text x="2364" y="2988" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4043-4044,4044</text>
+  <polyline points="1700,2900 1700,3600 1900,3600 1900,3810" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="1700,2946 1713,2928 1687,2928" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1714" y="2962" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4044-4045,4044</text>
+  <text x="1714" y="2988" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4044-4045,4044</text>
+  <polygon points="1900,3764 1913,3782 1887,3782" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1914" y="3732" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4044-4045,4045</text>
+  <text x="1914" y="3758" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4044-4045,4045</text>
+  <polyline points="1850,2900 1850,3680 2100,3680 2100,3810" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="1850,2946 1863,2928 1837,2928" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1864" y="2962" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4044-4045-2,4044</text>
+  <text x="1864" y="2988" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4044-4045-2,4044</text>
+  <polygon points="2100,3764 2113,3782 2087,3782" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="2114" y="3732" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4044-4045-2,4045</text>
+  <text x="2114" y="3758" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4044-4045-2,4045</text>
+  <polyline points="2750,2900 2750,2960" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="2750" cy="2977" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="2750" cy="3011" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="2750,3028 2750,3068" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polyline points="2698,3068 2802,3068" style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt" />
+  <polyline points="2750,3068 2750,3133" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polygon points="2750,3150 2763.6,3133 2736.4,3133" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="2814" y="3086" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:start;fill:#008f8f">43</text>
+  <text x="2814" y="3116" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A43</text>
+  <text x="2814" y="3142" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C43</text>
+  <text x="2814" y="3168" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%R43</text>
+  <text x="2814" y="3194" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%S43</text>
+  <polyline points="2950,2900 2950,2940" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="2950,2940 2950,3035" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="2920,3035 2980,3035" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="2920,3053 2980,3053" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="2950,3053 2950,3064" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="2918,3064 2982,3064" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="2930,3076 2970,3076" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="2941,3088 2959,3088" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <text x="2996" y="3025" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%H4043</text>
+  <polyline points="3850,2900 3850,2840" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="3850" cy="2789" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="3850" cy="2823" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="3850,2772 3850,2732" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polyline points="3798,2732 3902,2732" style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt" />
+  <polyline points="3850,2732 3850,2667" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polygon points="3850,2650 3864,2667 3836,2667" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="3914" y="2606" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:start;fill:#008f8f">46</text>
+  <text x="3914" y="2636" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A46</text>
+  <text x="3914" y="2662" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C46</text>
+  <text x="3914" y="2688" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%R46</text>
+  <text x="3914" y="2714" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%S46</text>
+  <polyline points="3600,2900 3600,2940" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="3600,2940 3600,3035" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="3570,3035 3630,3035" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="3570,3053 3630,3053" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="3600,3053 3600,3064" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="3568,3064 3632,3064" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="3580,3076 3620,3076" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="3591,3088 3609,3088" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <text x="3646" y="3025" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%H4046</text>
+  <polyline points="3150,2900 3150,2760 3590,2760 3590,2900" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="3150,2854 3163,2872 3137,2872" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="3164" y="2822" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4043-4046,4043</text>
+  <text x="3164" y="2848" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4043-4046,4043</text>
+  <polygon points="3590,2854 3603,2872 3577,2872" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="3604" y="2822" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4043-4046,4046</text>
+  <text x="3604" y="2848" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4043-4046,4046</text>
+  <polyline points="3200,2900 3200,3140 3590,3140 3590,3350" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="3200,2946 3213,2928 3187,2928" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="3214" y="2962" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4043-4047,4043</text>
+  <text x="3214" y="2988" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4043-4047,4043</text>
+  <polygon points="3590,3304 3603,3322 3577,3322" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="3604" y="3272" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4043-4047,4047</text>
+  <text x="3604" y="3298" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4043-4047,4047</text>
+  <polyline points="3800,2900 3800,3350" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="3800,2946 3813,2928 3787,2928" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="3814" y="2962" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4046-4047,4046</text>
+  <text x="3814" y="2988" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4046-4047,4046</text>
+  <polygon points="3800,3304 3813,3322 3787,3322" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="3814" y="3272" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4046-4047,4047</text>
+  <text x="3814" y="3298" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4046-4047,4047</text>
+  <polyline points="3600,3350 3600,3412" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="3600" cy="3429" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="3600" cy="3463" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="3600,3480 3600,3522" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="3600" cy="3564" r="42" style="fill:#cccccc;stroke:#000000;stroke-width:5" />
+  <text x="3600" y="3571.92" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:middle;fill:#000000">g15</text>
+  <text x="3658" y="3512" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%Ag15</text>
+  <text x="3658" y="3538" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%Cg15</text>
+  <text x="3658" y="3564" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000ff">%Gg15</text>
+  <text x="3658" y="3590" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%Kg15</text>
+  <polyline points="3820,3350 3820,3412" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="3820" cy="3429" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="3820" cy="3463" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="3820,3480 3820,3522" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="3820" cy="3564" r="42" style="fill:#cccccc;stroke:#000000;stroke-width:5" />
+  <text x="3820" y="3571.92" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:middle;fill:#000000">g15b</text>
+  <text x="3878" y="3512" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%Ag15b</text>
+  <text x="3878" y="3538" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%Cg15b</text>
+  <text x="3878" y="3564" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000ff">%Gg15b</text>
+  <text x="3878" y="3590" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%Kg15b</text>
+  <polyline points="4040,3350 4040,3410" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="4040" cy="3427" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="4040" cy="3461" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="4040,3478 4040,3518" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polyline points="3988,3518 4092,3518" style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt" />
+  <polyline points="4040,3518 4040,3583" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polygon points="4040,3600 4053.6,3583 4026.4,3583" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="4104" y="3536" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:start;fill:#008f8f">47</text>
+  <text x="4104" y="3566" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A47</text>
+  <text x="4104" y="3592" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C47</text>
+  <text x="4104" y="3618" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%R47</text>
+  <text x="4104" y="3644" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%S47</text>
+  <polyline points="440,2900 440,2838" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="440" cy="2787" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="440" cy="2821" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="440,2770 440,2728" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="440" cy="2686" r="42" style="fill:#cccccc;stroke:#000000;stroke-width:5" />
+  <text x="440" y="2693.92" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:middle;fill:#000000">g7</text>
+  <text x="498" y="2634" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%Ag7</text>
+  <text x="498" y="2660" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%Cg7</text>
+  <text x="498" y="2686" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000ff">%Gg7</text>
+  <text x="498" y="2712" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%Kg7</text>
+  <polyline points="650,2900 650,2840" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="650" cy="2789" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="650" cy="2823" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="650,2772 650,2732" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polyline points="598,2732 702,2732" style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt" />
+  <polyline points="650,2732 650,2667" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polygon points="650,2650 664,2667 636,2667" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="714" y="2606" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:start;fill:#008f8f">3</text>
+  <text x="714" y="2636" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A3</text>
+  <text x="714" y="2662" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C3</text>
+  <text x="714" y="2688" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%R3</text>
+  <text x="714" y="2714" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%S3</text>
+  <polyline points="830,2900 830,2940" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="830,2940 830,3035" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="800,3035 860,3035" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="800,3053 860,3053" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="830,3053 830,3064" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="798,3064 862,3064" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="810,3076 850,3076" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="821,3088 839,3088" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <text x="876" y="3025" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%H1043</text>
+  <polyline points="750,3350 750,3410" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="750" cy="3427" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="750" cy="3461" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="750,3478 750,3518" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polyline points="698,3518 802,3518" style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt" />
+  <polyline points="750,3518 750,3583" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polygon points="750,3600 763.6,3583 736.4,3583" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="814" y="3536" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:start;fill:#008f8f">4</text>
+  <text x="814" y="3566" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A4</text>
+  <text x="814" y="3592" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C4</text>
+  <text x="814" y="3618" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%R4</text>
+  <text x="814" y="3644" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%S4</text>
+  <polyline points="1000,3350 1000,3390" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="1000,3390 1000,3485" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="970,3485 1030,3485" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="970,3503 1030,3503" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="1000,3503 1000,3514" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="968,3514 1032,3514" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="980,3526 1020,3526" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="991,3538 1009,3538" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <text x="1046" y="3475" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%H1044</text>
+  <polyline points="2050,3350 2050,3288" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="2050" cy="3237" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="2050" cy="3271" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="2050,3220 2050,3178" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="2050" cy="3136" r="42" style="fill:#cccccc;stroke:#000000;stroke-width:5" />
+  <text x="2050" y="3143.92" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:middle;fill:#000000">g6</text>
+  <text x="2108" y="3084" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%Ag6</text>
+  <text x="2108" y="3110" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%Cg6</text>
+  <text x="2108" y="3136" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000ff">%Gg6</text>
+  <text x="2108" y="3162" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%Kg6</text>
+  <polyline points="2250,3350 2250,3410" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="2250" cy="3427" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="2250" cy="3461" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="2250,3478 2250,3518" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polyline points="2198,3518 2302,3518" style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt" />
+  <polyline points="2250,3518 2250,3583" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polygon points="2250,3600 2263.6,3583 2236.4,3583" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="2314" y="3536" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:start;fill:#008f8f">2</text>
+  <text x="2314" y="3566" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A2</text>
+  <text x="2314" y="3592" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C2</text>
+  <text x="2314" y="3618" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%R2</text>
+  <text x="2314" y="3644" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%S2</text>
+  <polyline points="400,3810 400,3870" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="400" cy="3887" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="400" cy="3921" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="400,3938 400,3978" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polyline points="348,3978 452,3978" style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt" />
+  <polyline points="400,3978 400,4043" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polygon points="400,4060 413.6,4043 386.4,4043" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="464" y="3996" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:start;fill:#008f8f">1</text>
+  <text x="464" y="4026" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A1</text>
+  <text x="464" y="4052" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C1</text>
+  <text x="464" y="4078" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%R1</text>
+  <text x="464" y="4104" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%S1</text>
+  <polyline points="620,3810 620,3850" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="620,3850 620,3945" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="590,3945 650,3945" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="590,3963 650,3963" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="620,3963 620,3974" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="588,3974 652,3974" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="600,3986 640,3986" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="611,3998 629,3998" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <text x="666" y="3935" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%H1041</text>
+  <polyline points="1350,3810 1350,3870" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="1350" cy="3887" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="1350" cy="3921" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="1350,3938 1350,3978" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polyline points="1298,3978 1402,3978" style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt" />
+  <polyline points="1350,3978 1350,4043" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polygon points="1350,4060 1363.6,4043 1336.4,4043" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1414" y="3996" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:start;fill:#008f8f">5</text>
+  <text x="1414" y="4026" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A5</text>
+  <text x="1414" y="4052" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C5</text>
+  <text x="1414" y="4078" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%R5</text>
+  <text x="1414" y="4104" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%S5</text>
+  <polyline points="1100,3810 1100,3850" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="1100,3850 1100,3945" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="1070,3945 1130,3945" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="1070,3963 1130,3963" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="1100,3963 1100,3974" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="1068,3974 1132,3974" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="1080,3986 1120,3986" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="1091,3998 1109,3998" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <text x="1146" y="3935" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%H1045</text>
+  <polyline points="1050,3350 1050,3160 1250,3160 1250,2900" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter" />
+  <circle cx="1050" cy="3237" r="24" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="1050" cy="3273" r="24" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="1200,3350 1200,3230 1400,3230 1400,2900" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter" />
+  <circle cx="1200" cy="3272" r="24" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="1200" cy="3308" r="24" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="1500,3810 1750,3810" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter" />
+  <circle cx="1607" cy="3810" r="24" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="1643" cy="3810" r="24" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="1450,3810 1450,3960 1800,3960 1800,3810" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter" />
+  <circle cx="1607" cy="3960" r="24" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="1643" cy="3960" r="24" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="650,2900 650,3150 800,3150 800,3350" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polyline points="750,2900 750,3220 900,3220 900,3350" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polyline points="350,3810 350,2900" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polyline points="450,3810 450,2900" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polyline points="810,3810 950,3810" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polyline points="780,3810 780,3960 1000,3960 1000,3810" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polyline points="1350,3350 1900,3350" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polyline points="1300,3350 1300,3480 1950,3480 1950,3350" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polyline points="2100,3350 2100,3560 1400,3560 1400,3810" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polyline points="1950,3810 1950,4270" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="1950,3856 1963,3838 1937,3838" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1964" y="3872" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4045-4051,4045</text>
+  <text x="1964" y="3898" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4045-4051,4045</text>
+  <polygon points="1950,4224 1963,4242 1937,4242" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1964" y="4192" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4045-4051,4051</text>
+  <text x="1964" y="4218" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4045-4051,4051</text>
+  <polyline points="2150,3810 2150,4270" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="2150,3856 2163,3838 2137,3838" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="2164" y="3872" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4045-4051-2,4045</text>
+  <text x="2164" y="3898" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4045-4051-2,4045</text>
+  <polygon points="2150,4224 2163,4242 2137,4242" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="2164" y="4192" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4045-4051-2,4051</text>
+  <text x="2164" y="4218" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4045-4051-2,4051</text>
+  <polyline points="2400,3810 2400,4100 2800,4100 2800,4620 1100,4620 1100,4720" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="2400,3856 2413,3838 2387,3838" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="2414" y="3872" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4045-4062,4045</text>
+  <text x="2414" y="3898" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4045-4062,4045</text>
+  <polygon points="1100,4674 1113,4692 1087,4692" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1114" y="4642" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4045-4062,4062</text>
+  <text x="1114" y="4668" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4045-4062,4062</text>
+  <polyline points="1900,4270 1900,4332" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="1900" cy="4349" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="1900" cy="4383" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="1900,4400 1900,4442" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="1900" cy="4484" r="42" style="fill:#cccccc;stroke:#000000;stroke-width:5" />
+  <text x="1900" y="4491.92" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:middle;fill:#000000">g16</text>
+  <text x="1958" y="4432" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%Ag16</text>
+  <text x="1958" y="4458" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%Cg16</text>
+  <text x="1958" y="4484" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000ff">%Gg16</text>
+  <text x="1958" y="4510" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%Kg16</text>
+  <polyline points="2120,4270 2120,4332" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="2120" cy="4349" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="2120" cy="4383" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="2120,4400 2120,4442" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="2120" cy="4484" r="42" style="fill:#cccccc;stroke:#000000;stroke-width:5" />
+  <text x="2120" y="4491.92" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:middle;fill:#000000">g16b</text>
+  <text x="2178" y="4432" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%Ag16b</text>
+  <text x="2178" y="4458" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%Cg16b</text>
+  <text x="2178" y="4484" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000ff">%Gg16b</text>
+  <text x="2178" y="4510" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%Kg16b</text>
+  <polyline points="2340,4270 2340,4310" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="2340,4310 2340,4405" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="2310,4405 2370,4405" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="2310,4423 2370,4423" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="2340,4423 2340,4434" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="2308,4434 2372,4434" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="2320,4446 2360,4446" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <polyline points="2331,4458 2349,4458" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt" />
+  <text x="2386" y="4395" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%H4051</text>
+  <polyline points="2560,4270 2560,4330" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="2560" cy="4347" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="2560" cy="4381" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="2560,4398 2560,4438" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polyline points="2508,4438 2612,4438" style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt" />
+  <polyline points="2560,4438 2560,4503" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polygon points="2560,4520 2573.6,4503 2546.4,4503" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="2624" y="4456" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:start;fill:#008f8f">51</text>
+  <text x="2624" y="4486" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A51</text>
+  <text x="2624" y="4512" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C51</text>
+  <text x="2624" y="4538" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%R51</text>
+  <text x="2624" y="4564" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%S51</text>
+  <polyline points="650,4270 650,4330" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="650" cy="4347" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="650" cy="4381" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="650,4398 650,4438" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polyline points="598,4438 702,4438" style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt" />
+  <polyline points="650,4438 650,4503" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polygon points="650,4520 663.6,4503 636.4,4503" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="714" y="4456" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:start;fill:#008f8f">61</text>
+  <text x="714" y="4486" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A61</text>
+  <text x="714" y="4512" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C61</text>
+  <text x="714" y="4538" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%R61</text>
+  <text x="714" y="4564" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%S61</text>
+  <polyline points="400,4270 400,4470 440,4470 440,4720" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="400,4316 413,4298 387,4298" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="414" y="4332" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4061-4062,4061</text>
+  <text x="414" y="4358" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4061-4062,4061</text>
+  <polygon points="440,4674 453,4692 427,4692" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="454" y="4642" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4061-4062,4062</text>
+  <text x="454" y="4668" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4061-4062,4062</text>
+  <polyline points="950,4720 950,4658" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="950" cy="4607" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="950" cy="4641" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="950,4590 950,4548" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="950" cy="4506" r="42" style="fill:#cccccc;stroke:#000000;stroke-width:5" />
+  <text x="950" y="4513.92" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:middle;fill:#000000">g17</text>
+  <text x="1008" y="4454" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%Ag17</text>
+  <text x="1008" y="4480" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%Cg17</text>
+  <text x="1008" y="4506" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000ff">%Gg17</text>
+  <text x="1008" y="4532" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%Kg17</text>
+  <polyline points="400,4720 400,4780" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="400" cy="4797" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="400" cy="4831" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="400,4848 400,4888" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polyline points="348,4888 452,4888" style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt" />
+  <polyline points="400,4888 400,4953" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polygon points="400,4970 413.6,4953 386.4,4953" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="464" y="4906" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:start;fill:#008f8f">62</text>
+  <text x="464" y="4936" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A62</text>
+  <text x="464" y="4962" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C62</text>
+  <text x="464" y="4988" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%R62</text>
+  <text x="464" y="5014" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%S62</text>
+  <polyline points="700,4720 700,5170" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="700,4766 713,4748 687,4748" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="714" y="4782" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4062-4063,4062</text>
+  <text x="714" y="4808" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4062-4063,4062</text>
+  <polygon points="700,5124 713,5142 687,5142" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="714" y="5092" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4062-4063,4063</text>
+  <text x="714" y="5118" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4062-4063,4063</text>
+  <polyline points="900,4720 900,5170" style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter" />
+  <polygon points="900,4766 913,4748 887,4748" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="914" y="4782" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4062-4063-2,4062</text>
+  <text x="914" y="4808" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4062-4063-2,4062</text>
+  <polygon points="900,5124 913,5142 887,5142" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="914" y="5092" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%D4062-4063-2,4063</text>
+  <text x="914" y="5118" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%E4062-4063-2,4063</text>
+  <polyline points="400,5170 400,5232" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="400" cy="5249" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="400" cy="5283" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="400,5300 400,5342" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="400" cy="5384" r="42" style="fill:#cccccc;stroke:#000000;stroke-width:5" />
+  <text x="400" y="5391.92" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:middle;fill:#000000">g18</text>
+  <text x="458" y="5332" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%Ag18</text>
+  <text x="458" y="5358" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%Cg18</text>
+  <text x="458" y="5384" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000ff">%Gg18</text>
+  <text x="458" y="5410" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%Kg18</text>
+  <polyline points="700,5170 700,5232" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="700" cy="5249" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="700" cy="5283" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="700,5300 700,5342" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="700" cy="5384" r="42" style="fill:#cccccc;stroke:#000000;stroke-width:5" />
+  <text x="700" y="5391.92" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:middle;fill:#000000">g18b</text>
+  <text x="758" y="5332" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%Ag18b</text>
+  <text x="758" y="5358" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%Cg18b</text>
+  <text x="758" y="5384" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000ff">%Gg18b</text>
+  <text x="758" y="5410" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%Kg18b</text>
+  <polyline points="1000,5170 1000,5230" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <circle cx="1000" cy="5247" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <circle cx="1000" cy="5281" r="22" style="fill:none;stroke:#000000;stroke-width:4" />
+  <polyline points="1000,5298 1000,5338" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polyline points="948,5338 1052,5338" style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt" />
+  <polyline points="1000,5338 1000,5403" style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt" />
+  <polygon points="1000,5420 1013.6,5403 986.4,5403" style="fill:#000000;stroke:#000000;stroke-width:2" />
+  <text x="1064" y="5356" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:22px;text-anchor:start;fill:#008f8f">63</text>
+  <text x="1064" y="5386" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ff0000">%A63</text>
+  <text x="1064" y="5412" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#ffd600">%C63</text>
+  <text x="1064" y="5438" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#0000d1">%R63</text>
+  <text x="1064" y="5464" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:20px;text-anchor:start;fill:#008f00">%S63</text>
+  <text x="2850" y="4360" xml:space="preserve" style="font-style:normal;font-weight:normal;font-family:Helvetica;font-size:48px;text-anchor:start;fill:#000000">Nordic test system</text>
+  <polyline points="2850,4434 3000,4434" style="fill:none;stroke:#000000;stroke-width:18;stroke-linecap:butt" />
+  <text x="3030" y="4444" xml:space="preserve" style="font-style:normal;font-weight:normal;font-family:Helvetica;font-size:30px;text-anchor:start;fill:#000000">400 kV</text>
+  <polyline points="2850,4484 3000,4484" style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:butt" />
+  <text x="3030" y="4494" xml:space="preserve" style="font-style:normal;font-weight:normal;font-family:Helvetica;font-size:30px;text-anchor:start;fill:#000000">220 kV</text>
+  <polyline points="2850,4534 3000,4534" style="fill:none;stroke:#000000;stroke-width:12;stroke-linecap:butt" />
+  <text x="3030" y="4544" xml:space="preserve" style="font-style:normal;font-weight:normal;font-family:Helvetica;font-size:30px;text-anchor:start;fill:#000000">130 kV</text>
+  <text x="2850" y="4650" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:30px;text-anchor:start;fill:#0000d1">active powers  (MW)</text>
+  <text x="2850" y="4698" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:30px;text-anchor:start;fill:#008f00">reactive powers  (Mvar)</text>
+  <text x="2850" y="4746" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:30px;text-anchor:start;fill:#ff0000">voltage magnitudes  (pu)</text>
+  <text x="2850" y="4794" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';font-size:30px;text-anchor:start;fill:#ffd600">voltage phase angles  (deg)</text>
+  <text x="2850" y="4890" xml:space="preserve" style="font-style:normal;font-weight:normal;font-family:Helvetica;font-size:28px;text-anchor:start;fill:#000000">Branch flows are given at the bus end shown,</text>
+  <text x="2850" y="4930" xml:space="preserve" style="font-style:normal;font-weight:normal;font-family:Helvetica;font-size:28px;text-anchor:start;fill:#000000">positive out of the bus into the branch.</text>
+</svg>
