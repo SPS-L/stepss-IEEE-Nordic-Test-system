@@ -1,6 +1,6 @@
 # stepss Tutorials: Nordic Test System
 
-Self-contained tutorial notebooks for learning power system simulation with
+Tutorial notebooks for learning power system simulation with
 [stepss](https://stepss.sps-lab.org/python/) on the IEEE Nordic test system,
 designed for the **Control and Operation of Electric Power Systems (EEN452)**
 course at the Cyprus University of Technology (JupyterHub-ready).
@@ -10,24 +10,27 @@ course at the Cyprus University of Technology (JupyterHub-ready).
 | Notebook | What it teaches |
 |----------|-----------------|
 | **`Execute.ipynb`** | First contact with RAMSES: configure a case, initialize, trip generator g7 interactively (`addDisturb`), simulate, and plot machine and bus quantities with the extractor. |
-| **`PowerFlowToDynamics.ipynb`** | The complete static-to-dynamic workflow of STEPSS: solve the power flow with **HELIOS**, increase every Central-area load by 10 %, re-solve, export the new operating point (static dump + `volt_rat` initial conditions), then simulate the trip of generator g2 with **RAMSES** and compare the frequency and voltage evolution against the original operating point B. |
+| **`PowerFlowToDynamics.ipynb`** | The complete static-to-dynamic workflow of STEPSS: solve the power flow with **HELIOS**, increase every Central-area load by 10 %, re-solve, export the new operating point as one re-loadable data file, then simulate the trip of generator g2 with **RAMSES** and compare the frequency and voltage evolution against the original operating point B. |
 
 ## Files
 
+The data lives one directory up and is read from there, so there is one copy of
+every file and the notebooks cannot drift from the test system they teach.
+
 | File | Role | Read by |
 |------|------|---------|
-| `lf_B.dat` | Static network and power-flow data, operating point B | HELIOS |
-| `dyn_B.dat` | Dynamic models (machines, AVRs, governors, PSSs, loads, LTC controllers) | RAMSES |
-| `volt_rat_B.dat` | Solved operating point B: bus voltages and transformer ratios | RAMSES (initialization) |
-| `settings1.dat` | Time-integration and solver settings | RAMSES |
-| `obs.dat` | Observables selection (wildcards, record everything) | RAMSES |
-| `trip_gen.dst` | Disturbance scenario: trip generator g2 at t = 1 s, stop at t = 120 s | RAMSES |
-| `short_trip_branch.dst`, `nothing.dst` | Alternative disturbance scenarios | RAMSES |
+| `../lf_B.dat` | The network and operating point B: buses, lines, transformers, loads, generation and the solved voltages | HELIOS and RAMSES |
+| `../dyn_B.dat` | Dynamic models (machines, AVRs, governors, PSSs, loads, LTC controllers) | RAMSES |
+| `../settings1.dat` | Time-integration and solver settings | RAMSES |
+| `../obs.dat` | Observables selection (wildcards, record everything) | RAMSES |
+| `../trip_gen_long.dst` | Disturbance scenario: trip generator g2 at t = 1 s, stop at t = 120 s | RAMSES |
+| `../nothing_long.dst` | Undisturbed 1000 s run | RAMSES |
 | `nordic_oneline.png` | One-line diagram of the Nordic test system | the notebooks |
 
 `PowerFlowToDynamics.ipynb` additionally generates `lf_B_plus10pct.dat` and
 `volt_rat_B_plus10pct.dat` (the stressed operating point) plus `*.trace`/`*.trj`
-output files when it runs.
+output files when it runs. Those stay in this directory: they are run products,
+not data.
 
 ## Getting started
 
