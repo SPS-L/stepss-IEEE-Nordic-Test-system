@@ -19,6 +19,7 @@ The system has 74 buses (including 20 generator buses), 20 synchronous machines 
 | `uvls.dat` | Undervoltage load-shedding (UVLS) controllers |
 | `*.dst` | Disturbance scenarios: no-disturbance run, branch/generator trips, LTC changes, Jacobian export for eigenanalysis (`eigen.dst`, `dampJac.dst`) |
 | `cmd.txt` | RAMSES command file for operating point A |
+| `nordic.cfg` | STEPSS scenario file: opens operating point A with `trip_branch.dst` in the STEPSS GUI, through **File > Load configuration**. Paths are relative to this folder, so it travels with a copy or a move |
 | `nordic.svg` | One-line diagram template, with `%A`-`%U` placeholder codes substituted by the Helios `1` command |
 | `doc/` | Documentation: Nordic test system report V6 and operating-point variants description |
 | `jupyterhub-tutorial/` | stepss tutorial notebooks used in the [EEN452 course](https://sps-lab.org/courses/een452/): a first dynamic simulation (`Execute.ipynb`) and the full HELIOS power-flow → RAMSES workflow (`PowerFlowToDynamics.ipynb`). They read the data files in this directory rather than keeping copies |
