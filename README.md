@@ -111,7 +111,7 @@ to 600 s.
 platform: it takes the system from a HELIOS power flow, through a load increase, to a RAMSES
 dynamic simulation of a generator trip.
 
-Verified against **stepss 3.84** (RAMSES 3.84, HELIOS 1.4.1) on macOS, 2026-11-20: both operating points hold flat on `nothing.dst` and solve as power flows.
+Verified against **stepss 3.84** (RAMSES 3.84, HELIOS 1.5.0) on macOS, 2026-11-20: both operating points hold flat on `nothing.dst` and solve as power flows.
 
 ## Documentation
 
