@@ -98,11 +98,20 @@ twice and the two engines cannot drift apart on what the network is.
 and `trip_gen.dst` scenarios, all initialise and simulate. Every operating point also solves
 as a power flow and renders the one-line diagram.
 
+`nordic.cfg` does **not** run to its 200 s `STOP`, by design. Operating point A is the insecure
+one: after line 4032-4044 trips at t = 1 s the system is long-term voltage unstable, and the
+voltage monitor stops the run at t = 165.4 s with `Voltage out of bounds at bus g6 : 0.49`.
+That matches the collapse "less than 3 minutes after the initiating line outage" described in
+`doc/Nordic_test_system_V6.pdf`. The same trip at operating point B (`lf_B.dat`, `dyn_B.dat`)
+is secure and runs to 200 s. At point A, `short_trip_branch_changeLTCs.dst` (fault, trip,
+then the set-points of 11 LTCs lowered by 0.05 pu at t = 100 s) avoids the collapse and runs
+to 600 s.
+
 `jupyterhub-tutorial/PowerFlowToDynamics.ipynb` is the reference tutorial for the whole
 platform: it takes the system from a HELIOS power flow, through a load increase, to a RAMSES
 dynamic simulation of a generator trip.
 
-Verified against **stepss 3.77** (RAMSES 3.77, HELIOS 1.4.1) on Linux.
+Verified against **stepss 3.84** (RAMSES 3.84, HELIOS 1.4.1) on macOS, 2026-11-20: both operating points hold flat on `nothing.dst` and solve as power flows.
 
 ## Documentation
 
